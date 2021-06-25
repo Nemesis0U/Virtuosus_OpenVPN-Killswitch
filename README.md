@@ -24,4 +24,5 @@ python Virtuosus.py
 
 Image:
 
-![Image](https://user-images.githubusercontent.com/83503290/123465889-9ab9e300-d5e6-11eb-9455-5546bb930f2f.png)
+![Image](https://user-images.githubusercontent.com/83503290/123471082-2c2c5380-d5ed-11eb-9586-74b77178ffb2.png)
+
