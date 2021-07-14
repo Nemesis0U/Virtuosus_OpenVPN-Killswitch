@@ -3,7 +3,7 @@ A log-based OpenVPN killswitch that disables network adapters when things go wro
 
 Warning: You must start it with admin priveleges in order to make it work.
 
-**Tested at Python 3.5>** ,
+**Tested on Python 3.5>** ,
 **Only compatible with Windows**
 
 Cloning from the repository:
