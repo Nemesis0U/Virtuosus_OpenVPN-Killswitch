@@ -1,28 +1,22 @@
-# Virtuosus_OpenVPN-Killswitch
-A log-based OpenVPN killswitch that disables network adapters when things go wrong
+# Virtuosus
+### :space_invader: A log-based OpenVPN killswitch that disables network adapters when things go bad :space_invader:
 
-Warning: You must start it with admin priveleges in order to make it work.
+#### Warning: You must start the tool with admin priveleges in order to make it work.
 
-**Tested on Python 3.5>** ,
-**Only compatible with Windows**
+Tested on Python 3.5, compatible with only Windows
 
-Cloning from the repository:
-```
- git clone https://github.com/Nemesis0U/Virtuosus_OpenVPN-Killswitch.git
-```
-Installing required packages:
+#### Install required packages
 ```
  pip3 install colorama
  pip3 install pyfiglet
 ```
-Running:
+#### :ghost: Run simply by :ghost:
 
--Start command line as administrator
+-Start command line as admin
 ```
 python Virtuosus.py
 ```
 
 Image:
 
-![Image](https://user-images.githubusercontent.com/83503290/123471082-2c2c5380-d5ed-11eb-9586-74b77178ffb2.png)
-
+![Image](https://user-images.githubusercontent.com/83503290/141673980-cedee58c-c4ff-4cff-8d6e-f03c08fd7ff1.png)
